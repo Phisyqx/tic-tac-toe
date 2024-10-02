@@ -1,4 +1,3 @@
-
 use std::io::{stdin, stdout, Write};
 use std::fmt::Display;
 
